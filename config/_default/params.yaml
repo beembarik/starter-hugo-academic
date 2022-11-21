@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Barik. This work is licensed under {license}'
+    notice: '© {year} Barik. #This work is licensed under {license}'
     license:
       enable: false
       allow_derivatives: false
